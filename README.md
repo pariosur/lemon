@@ -1,4 +1,6 @@
-# lemon
+# Django Rest API
 
-/restaurant/bookings/
-/restaurant/menu/
+URLS for testing:
+
+* /restaurant/bookings/
+* /restaurant/menu/
